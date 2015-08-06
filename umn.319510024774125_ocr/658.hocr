@@ -1,0 +1,28 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/119/umn.319510024774125/658.png"; bbox 0 0 2069 3033; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1596 2118 1688 2157">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1596 2118 1688 2157">
+     <span class='ocr_line' id='line_1_1' title="bbox 1596 2118 1688 2157; baseline 0.011 -6"><span class='ocrx_word' id='word_1_1' title='bbox 1596 2118 1688 2157; x_wconf 86' lang='grc'><strong>270.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1595 2167 1693 2211">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1595 2167 1693 2211">
+     <span class='ocr_line' id='line_1_2' title="bbox 1595 2167 1693 2211; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1595 2167 1693 2211; x_wconf 75' lang='lat' dir='ltr'><strong>qM58</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1593 2220 1744 2259">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1593 2220 1744 2259">
+     <span class='ocr_line' id='line_1_3' title="bbox 1593 2220 1744 2259; baseline 0.046 -7"><span class='ocrx_word' id='word_1_3' title='bbox 1593 2220 1744 2259; x_wconf 88' lang='lat' dir='ltr'><strong>no.119</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 723 2535 1997 3033">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 727 2599 1987 3033">
+     <span class='ocr_line' id='line_1_4' title="bbox 913 2599 1987 2695; baseline 0.033 -35"><span class='ocrx_word' id='word_1_4' title='bbox 913 2616 1038 2660; x_wconf 29' lang='grc' dir='ltr'><strong>..ο-λι]</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1835 2599 1987 2695; x_wconf 83' lang='lat'><strong>-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 727 2795 1182 3033; baseline 0.002 -1"><span class='ocrx_word' id='word_1_6' title='bbox 727 2795 1182 3033; x_wconf 61' lang='lat' dir='ltr'><strong>‘iiiiiiiiiiiiiiigi</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
